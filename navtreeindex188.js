@@ -1,5 +1,15 @@
 var NAVTREEINDEX188 =
 {
+"service_2src_2_nodes_2_circle_abs_8cpp_source.html":[35,0,0,51,10,1,0,0],
+"service_2src_2_nodes_2_circle_add_8cpp.html":[35,0,0,51,10,1,0,1],
+"service_2src_2_nodes_2_circle_add_8cpp_source.html":[35,0,0,51,10,1,0,1],
+"service_2src_2_nodes_2_circle_add_n_8cpp.html":[35,0,0,51,10,1,0,2],
+"service_2src_2_nodes_2_circle_add_n_8cpp_source.html":[35,0,0,51,10,1,0,2],
+"service_2src_2_nodes_2_circle_arg_max_8cpp.html":[35,0,0,51,10,1,0,3],
+"service_2src_2_nodes_2_circle_arg_max_8cpp_source.html":[35,0,0,51,10,1,0,3],
+"service_2src_2_nodes_2_circle_arg_min_8cpp.html":[35,0,0,51,10,1,0,4],
+"service_2src_2_nodes_2_circle_arg_min_8cpp_source.html":[35,0,0,51,10,1,0,4],
+"service_2src_2_nodes_2_circle_average_pool2_d_8cpp.html":[35,0,0,51,10,1,0,5],
 "service_2src_2_nodes_2_circle_average_pool2_d_8cpp_source.html":[35,0,0,51,10,1,0,5],
 "service_2src_2_nodes_2_circle_b_c_q_fully_connected_8cpp.html":[35,0,0,51,10,1,0,8],
 "service_2src_2_nodes_2_circle_b_c_q_fully_connected_8cpp_source.html":[35,0,0,51,10,1,0,8],
@@ -239,15 +249,5 @@ var NAVTREEINDEX188 =
 "service_2src_2_nodes_2_circle_unpack_8cpp.html":[35,0,0,51,10,1,0,123],
 "service_2src_2_nodes_2_circle_unpack_8cpp_source.html":[35,0,0,51,10,1,0,123],
 "service_2src_2_nodes_2_circle_unpack_out_8cpp.html":[35,0,0,51,10,1,0,124],
-"service_2src_2_nodes_2_circle_unpack_out_8cpp_source.html":[35,0,0,51,10,1,0,124],
-"service_2src_2_nodes_2_circle_variable_8cpp.html":[35,0,0,51,10,1,0,125],
-"service_2src_2_nodes_2_circle_variable_8cpp_source.html":[35,0,0,51,10,1,0,125],
-"service_2src_2_nodes_2_circle_where_8cpp.html":[35,0,0,51,10,1,0,126],
-"service_2src_2_nodes_2_circle_where_8cpp_source.html":[35,0,0,51,10,1,0,126],
-"service_2src_2_nodes_2_circle_while_8cpp.html":[35,0,0,51,10,1,0,127],
-"service_2src_2_nodes_2_circle_while_8cpp_source.html":[35,0,0,51,10,1,0,127],
-"service_2src_2_nodes_2_circle_while_out_8cpp.html":[35,0,0,51,10,1,0,128],
-"service_2src_2_nodes_2_circle_while_out_8cpp_source.html":[35,0,0,51,10,1,0,128],
-"service_2src_2_nodes_2_circle_zeros_like_8cpp.html":[35,0,0,51,10,1,0,129],
-"service_2src_2_nodes_2_circle_zeros_like_8cpp_source.html":[35,0,0,51,10,1,0,129]
+"service_2src_2_nodes_2_circle_unpack_out_8cpp_source.html":[35,0,0,51,10,1,0,124]
 };

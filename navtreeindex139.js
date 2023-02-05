@@ -1,5 +1,15 @@
 var NAVTREEINDEX139 =
 {
+"compiler_2luci-interpreter_2src_2kernels_2_reshape_8cpp.html":[35,0,0,53,2,2,113],
+"compiler_2luci-interpreter_2src_2kernels_2_reshape_8cpp_source.html":[35,0,0,53,2,2,113],
+"compiler_2luci-interpreter_2src_2kernels_2_reshape_8h.html":[35,0,0,53,2,2,114],
+"compiler_2luci-interpreter_2src_2kernels_2_reshape_8h_source.html":[35,0,0,53,2,2,114],
+"compiler_2luci-interpreter_2src_2kernels_2_resize_bilinear_8cpp.html":[35,0,0,53,2,2,115],
+"compiler_2luci-interpreter_2src_2kernels_2_resize_bilinear_8cpp_source.html":[35,0,0,53,2,2,115],
+"compiler_2luci-interpreter_2src_2kernels_2_resize_bilinear_8h.html":[35,0,0,53,2,2,116],
+"compiler_2luci-interpreter_2src_2kernels_2_resize_bilinear_8h_source.html":[35,0,0,53,2,2,116],
+"compiler_2luci-interpreter_2src_2kernels_2_resize_nearest_neighbor_8cpp.html":[35,0,0,53,2,2,117],
+"compiler_2luci-interpreter_2src_2kernels_2_resize_nearest_neighbor_8cpp_source.html":[35,0,0,53,2,2,117],
 "compiler_2luci-interpreter_2src_2kernels_2_resize_nearest_neighbor_8h.html":[35,0,0,53,2,2,118],
 "compiler_2luci-interpreter_2src_2kernels_2_resize_nearest_neighbor_8h_source.html":[35,0,0,53,2,2,118],
 "compiler_2luci-interpreter_2src_2kernels_2_reverse_v2_8cpp.html":[35,0,0,53,2,2,119],
@@ -156,8 +166,8 @@ var NAVTREEINDEX139 =
 "compiler_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a0bf95843a4ca2404557403f869f84fc3":[35,0,0,53,2,3,3,2],
 "compiler_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a1f2a0f001c3cf88ea589d4b263616ab8":[35,0,0,53,2,3,3,6],
 "compiler_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a1f2a0f001c3cf88ea589d4b263616ab8a46b9a46fe1de96a0ff7ee864ec4b7caa":[35,0,0,53,2,3,3,6,1],
-"compiler_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a1f2a0f001c3cf88ea589d4b263616ab8a6f6cb72d544962fa333e2e34ce64f719":[35,0,0,53,2,3,3,6,2],
 "compiler_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a1f2a0f001c3cf88ea589d4b263616ab8a6f6cb72d544962fa333e2e34ce64f719":[35,0,0,53,2,3,3,6,0],
+"compiler_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a1f2a0f001c3cf88ea589d4b263616ab8a6f6cb72d544962fa333e2e34ce64f719":[35,0,0,53,2,3,3,6,2],
 "compiler_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#a59f867085e2fdfd747e0aa64cfb6c6ed":[35,0,0,53,2,3,3,5],
 "compiler_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#ab968e7590faa832d708fdf28b656fa76":[35,0,0,53,2,3,3,4],
 "compiler_2luci-interpreter_2src_2loader_2_kernel_builder_8cpp.html#acd6355225daabf033d129b51d6c88f8e":[35,0,0,53,2,3,3,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX139 =
 "compiler_2luci-interpreter_2src_2loader_2nodes_2_greater_8cpp_source.html":[35,0,0,53,2,3,0,23],
 "compiler_2luci-interpreter_2src_2loader_2nodes_2_greater_equal_8cpp.html":[35,0,0,53,2,3,0,24],
 "compiler_2luci-interpreter_2src_2loader_2nodes_2_greater_equal_8cpp.html#a3b160acf61b7f5cb5b9d54ac813c045b":[35,0,0,53,2,3,0,24,0],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_greater_equal_8cpp_source.html":[35,0,0,53,2,3,0,24],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_if_8cpp.html":[35,0,0,53,2,3,0,25],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_if_8cpp.html#ac1ca6ae51000664bf87bc38f589c635f":[35,0,0,53,2,3,0,25,0],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_if_8cpp_source.html":[35,0,0,53,2,3,0,25],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_instance_norm_8cpp.html":[35,0,0,53,2,3,0,26],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_instance_norm_8cpp.html#ac0e5494eb9a2aea2c1447b644423e940":[35,0,0,53,2,3,0,26,0],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_instance_norm_8cpp_source.html":[35,0,0,53,2,3,0,26],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_l2_normalize_8cpp.html":[35,0,0,53,2,3,0,27],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_l2_normalize_8cpp.html#a1a4ce5b2c2b51d9a7d56521a649b4f3d":[35,0,0,53,2,3,0,27,0],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_l2_normalize_8cpp_source.html":[35,0,0,53,2,3,0,27],
-"compiler_2luci-interpreter_2src_2loader_2nodes_2_l2_pool2_d_8cpp.html":[35,0,0,53,2,3,0,28]
+"compiler_2luci-interpreter_2src_2loader_2nodes_2_greater_equal_8cpp_source.html":[35,0,0,53,2,3,0,24]
 };

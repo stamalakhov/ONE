@@ -1,5 +1,15 @@
 var NAVTREEINDEX147 =
 {
+"compute_2cker_2include_2cker_2operation_2_unpack_8h.html":[35,0,1,1,0,0,3,68],
+"compute_2cker_2include_2cker_2operation_2_unpack_8h.html#a553a45cc94fa92a15f20de72fde4bfd9":[35,0,1,1,0,0,3,68,0],
+"compute_2cker_2include_2cker_2operation_2_unpack_8h_source.html":[35,0,1,1,0,0,3,68],
+"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html":[35,0,1,1,0,0,3,1,2],
+"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html#a201402ddf5f904cc04577124681cf526":[35,0,1,1,0,0,3,1,2,3],
+"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html#a2a76a60442b85b70622d1e68043897da":[35,0,1,1,0,0,3,1,2,2],
+"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html#a4bac55e13be194606f4691fd24dae393":[35,0,1,1,0,0,3,1,2,4],
+"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html#ae5bcc95267018d54f77dd908ef6077ad":[35,0,1,1,0,0,3,1,2,1],
+"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h_source.html":[35,0,1,1,0,0,3,1,2],
+"compute_2cker_2include_2cker_2operation_2reference_2_batch_mat_mul_8h.html":[35,0,1,1,0,0,3,2,1],
 "compute_2cker_2include_2cker_2operation_2reference_2_batch_mat_mul_8h.html#aca7021574af27880fcaa5f0bb62981e7":[35,0,1,1,0,0,3,2,1,0],
 "compute_2cker_2include_2cker_2operation_2reference_2_batch_mat_mul_8h_source.html":[35,0,1,1,0,0,3,2,1],
 "compute_2cker_2include_2cker_2operation_2reference_2_conv_8h.html":[35,0,1,1,0,0,3,2,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX147 =
 "cpu_2ops_2_operation_utils_8cc.html#ae4d438d3d3062bfd95a6e0caed125457":[35,0,4,2,1,4,0,54,5],
 "cpu_2ops_2_operation_utils_8cc.html#afc22736e0da6f4516d09f994d0e9d07a":[35,0,4,2,1,4,0,54,9],
 "cpu_2ops_2_operation_utils_8cc_source.html":[35,0,4,2,1,4,0,54],
-"cpu_2ops_2_operation_utils_8h.html":[35,0,4,2,1,4,0,55],
-"cpu_2ops_2_operation_utils_8h.html#a0054916d6bc97916914b4b69c1a398e8":[35,0,4,2,1,4,0,55,7],
-"cpu_2ops_2_operation_utils_8h.html#a03d14d78d8be88975e381ff1c795bd5c":[35,0,4,2,1,4,0,55,4],
-"cpu_2ops_2_operation_utils_8h.html#a0e7672ebf55bbaa7e1d86a46cfd53c5e":[35,0,4,2,1,4,0,55,5],
-"cpu_2ops_2_operation_utils_8h.html#a1cfb53087f7fc161b9162d65aa5520d9":[35,0,4,2,1,4,0,55,16],
-"cpu_2ops_2_operation_utils_8h.html#a26b5e969b47cf039ff14a095c294271d":[35,0,4,2,1,4,0,55,11],
-"cpu_2ops_2_operation_utils_8h.html#a27643fcea52ce22ee60ec37eea3f423f":[35,0,4,2,1,4,0,55,14],
-"cpu_2ops_2_operation_utils_8h.html#a3be5fe32ffdf0573dd36b64172dbaa3a":[35,0,4,2,1,4,0,55,19],
-"cpu_2ops_2_operation_utils_8h.html#a5650844753363f826ab47f2e9a947983":[35,0,4,2,1,4,0,55,12],
-"cpu_2ops_2_operation_utils_8h.html#a5698db9da4bb6ebb7fb8c86cb9576c5d":[35,0,4,2,1,4,0,55,21],
-"cpu_2ops_2_operation_utils_8h.html#a67659c4b1db1cd377445852a8ed53fe6":[35,0,4,2,1,4,0,55,8]
+"cpu_2ops_2_operation_utils_8h.html":[35,0,4,2,1,4,0,55]
 };

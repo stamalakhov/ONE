@@ -1,5 +1,15 @@
 var NAVTREEINDEX146 =
 {
+"compute_2cker_2include_2cker_2operation_2_comparison_8h.html#a9d9d8734d660f39f5bee85bdd8724ee3":[35,0,1,1,0,0,3,11,0],
+"compute_2cker_2include_2cker_2operation_2_comparison_8h.html#aa2a5f6677f60181d9026cda30ecc9a26":[35,0,1,1,0,0,3,11,6],
+"compute_2cker_2include_2cker_2operation_2_comparison_8h.html#ac3c714f2cd9baa48086562bb8cd328f2":[35,0,1,1,0,0,3,11,11],
+"compute_2cker_2include_2cker_2operation_2_comparison_8h.html#aec40311859641f2a3ee5141db1ad702a":[35,0,1,1,0,0,3,11,17],
+"compute_2cker_2include_2cker_2operation_2_comparison_8h.html#af0936f6ed9a45b98f4751cc69a64c68a":[35,0,1,1,0,0,3,11,3],
+"compute_2cker_2include_2cker_2operation_2_comparison_8h.html#af1535e2a8c854aca9a4cec56cbacff2d":[35,0,1,1,0,0,3,11,14],
+"compute_2cker_2include_2cker_2operation_2_comparison_8h.html#af748f3e928c3169285c6843cb2f4e862":[35,0,1,1,0,0,3,11,2],
+"compute_2cker_2include_2cker_2operation_2_comparison_8h.html#af98f6c535dcc1915db5edc72f6098805":[35,0,1,1,0,0,3,11,13],
+"compute_2cker_2include_2cker_2operation_2_comparison_8h.html#afc787b00c356d0e5a9c3e04b760dea88":[35,0,1,1,0,0,3,11,10],
+"compute_2cker_2include_2cker_2operation_2_comparison_8h_source.html":[35,0,1,1,0,0,3,11],
 "compute_2cker_2include_2cker_2operation_2_concatenation_8h.html":[35,0,1,1,0,0,3,12],
 "compute_2cker_2include_2cker_2operation_2_concatenation_8h.html#a06477c8b318177e9ba1c6160b9b1d813":[35,0,1,1,0,0,3,12,1],
 "compute_2cker_2include_2cker_2operation_2_concatenation_8h.html#a4c0478f91b5ff06fd9b629b3a41d2a0d":[35,0,1,1,0,0,3,12,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX146 =
 "compute_2cker_2include_2cker_2operation_2_transpose_8h_source.html":[35,0,1,1,0,0,3,66],
 "compute_2cker_2include_2cker_2operation_2_transpose_conv_8h.html":[35,0,1,1,0,0,3,67],
 "compute_2cker_2include_2cker_2operation_2_transpose_conv_8h.html#a6fece3fd061a03ef177ab929c612a40f":[35,0,1,1,0,0,3,67,0],
-"compute_2cker_2include_2cker_2operation_2_transpose_conv_8h_source.html":[35,0,1,1,0,0,3,67],
-"compute_2cker_2include_2cker_2operation_2_unpack_8h.html":[35,0,1,1,0,0,3,68],
-"compute_2cker_2include_2cker_2operation_2_unpack_8h.html#a553a45cc94fa92a15f20de72fde4bfd9":[35,0,1,1,0,0,3,68,0],
-"compute_2cker_2include_2cker_2operation_2_unpack_8h_source.html":[35,0,1,1,0,0,3,68],
-"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html":[35,0,1,1,0,0,3,1,2],
-"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html#a201402ddf5f904cc04577124681cf526":[35,0,1,1,0,0,3,1,2,3],
-"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html#a2a76a60442b85b70622d1e68043897da":[35,0,1,1,0,0,3,1,2,2],
-"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html#a4bac55e13be194606f4691fd24dae393":[35,0,1,1,0,0,3,1,2,4],
-"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h.html#ae5bcc95267018d54f77dd908ef6077ad":[35,0,1,1,0,0,3,1,2,1],
-"compute_2cker_2include_2cker_2operation_2optimized_2_conv_8h_source.html":[35,0,1,1,0,0,3,1,2],
-"compute_2cker_2include_2cker_2operation_2reference_2_batch_mat_mul_8h.html":[35,0,1,1,0,0,3,2,1]
+"compute_2cker_2include_2cker_2operation_2_transpose_conv_8h_source.html":[35,0,1,1,0,0,3,67]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX175 =
 {
+"namespacennfw_1_1ruy.html#ae54c14664e4b63f091d185b726d73c70":[33,0,81,3,16],
+"namespacennfw_1_1ruy.html#af79b6729b43e12407ac4b76ad180f4f6":[33,0,81,3,24],
+"namespacennfw_1_1ruy_1_1ruy__support.html":[33,0,81,3,0],
+"namespacennfw_1_1ruy_1_1ruy__support.html#a5aba06dc577ca808adfe66a67359fb1f":[33,0,81,3,0,1],
+"namespacennfw_1_1ruy_1_1ruy__support.html#a65255623e53ed1a030b45e22e9879363":[33,0,81,3,0,2],
+"namespacennfw_1_1ruy_1_1ruy__support.html#a8bf08bc338f092f4d2dfbfb874b3dbbe":[33,0,81,3,0,0],
+"namespacennfw_1_1ruy_1_1ruy__support.html#ad55bed4e411dee74972255e58257b1ba":[33,0,81,3,0,4],
+"namespacennfw_1_1ruy_1_1ruy__support.html#afb55cf5e5f50f04bd64c3adc7604a429":[33,0,81,3,0,3],
+"namespacennfw_1_1tflite.html":[33,0,81,4],
+"namespacennkit.html":[33,0,82],
 "namespacennkit.html#a901c7e934e270a3b5b7c23dcdf036d13":[33,0,82,7],
 "namespacennkit_1_1support.html":[33,0,82,0],
 "namespacennkit_1_1support_1_1caffe.html":[33,0,82,0,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX175 =
 "namespaceonert_1_1backend_1_1gpu__cl.html#a97ac54cf9f02c2e236f356e7311bff5ea20564b8b76ac5e4b35455b46cbb8add7":[33,0,86,1,8,14,2],
 "namespaceonert_1_1backend_1_1gpu__cl.html#a97ac54cf9f02c2e236f356e7311bff5ea46d638e307d781b6c787897ac413d838":[33,0,86,1,8,14,0],
 "namespaceonert_1_1backend_1_1gpu__cl.html#a9d0939265c3021686845ee05059b3de9":[33,0,86,1,8,16],
-"namespaceonert_1_1backend_1_1gpu__cl.html#ab466daac92dea67c7472a24ef4fd80a1":[33,0,86,1,8,18],
-"namespaceonert_1_1backend_1_1gpu__cl.html#ad0daec492c53415aa2d8e52be4411f4a":[33,0,86,1,8,17],
-"namespaceonert_1_1backend_1_1gpu__cl.html#aee69af41138816d0153879750794de90":[33,0,86,1,8,20],
-"namespaceonert_1_1backend_1_1gpu__cl.html#af48ed28cb0d18b7539070a68b7e31a22":[33,0,86,1,8,21],
-"namespaceonert_1_1backend_1_1gpu__cl_1_1operand.html":[33,0,86,1,8,0],
-"namespaceonert_1_1backend_1_1ruy.html":[33,0,86,1,9],
-"namespaceonert_1_1backend_1_1ruy.html#a43249f4ae1d9e70164694bbe4c47aab2":[33,0,86,1,9,8],
-"namespaceonert_1_1backend_1_1ruy.html#a8295289e59d31ff8afb39a139a60bc67":[33,0,86,1,9,9],
-"namespaceonert_1_1backend_1_1ruy.html#a90c3d6ad7570204c1e0b655b27ea6c6a":[33,0,86,1,9,6],
-"namespaceonert_1_1backend_1_1ruy.html#af7ef5b7decc45586dee42c9cd19c8444":[33,0,86,1,9,7],
-"namespaceonert_1_1backend_1_1ruy_1_1ops.html":[33,0,86,1,9,0]
+"namespaceonert_1_1backend_1_1gpu__cl.html#ab466daac92dea67c7472a24ef4fd80a1":[33,0,86,1,8,18]
 };

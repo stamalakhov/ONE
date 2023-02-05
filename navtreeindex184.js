@@ -1,5 +1,15 @@
 var NAVTREEINDEX184 =
 {
+"optimized_2_binary_arithmetic_ops_8h.html#af1a0a78101d8a1152b8c8dafe5834292":[35,0,1,1,0,0,3,1,1,31],
+"optimized_2_binary_arithmetic_ops_8h.html#af9d3da85d0e72b382c3008baa4d49198":[35,0,1,1,0,0,3,1,1,10],
+"optimized_2_binary_arithmetic_ops_8h_source.html":[35,0,1,1,0,0,3,1,1],
+"optimized_2_depthwise_conv_u_int8_8h.html":[35,0,1,1,0,0,3,1,4],
+"optimized_2_depthwise_conv_u_int8_8h.html#a2b1b66890f9515899386cdb50acafbe3":[35,0,1,1,0,0,3,1,4,4],
+"optimized_2_depthwise_conv_u_int8_8h.html#a5d6cdde4feb9761abaa001f402b79f27":[35,0,1,1,0,0,3,1,4,1],
+"optimized_2_depthwise_conv_u_int8_8h.html#a7f843a8c10add9f97826e1952b289a07":[35,0,1,1,0,0,3,1,4,3],
+"optimized_2_depthwise_conv_u_int8_8h.html#a9e5f7a3eadfba82e028f4983a462c5cb":[35,0,1,1,0,0,3,1,4,2],
+"optimized_2_depthwise_conv_u_int8_8h.html#aa432b80504a69aefe8ee0a4f0a4d94f8":[35,0,1,1,0,0,3,1,4,7],
+"optimized_2_depthwise_conv_u_int8_8h.html#ab9b6acc151e330c9742628a2f37650b6":[35,0,1,1,0,0,3,1,4,5],
 "optimized_2_depthwise_conv_u_int8_8h.html#adf2547e9a7129861ac2bb8a7b32ab4b2":[35,0,1,1,0,0,3,1,4,6],
 "optimized_2_depthwise_conv_u_int8_8h_source.html":[35,0,1,1,0,0,3,1,4],
 "pages.html":[],
@@ -239,15 +249,5 @@ var NAVTREEINDEX184 =
 "partition_2src_2_nodes_2_circle_shape_8cpp_source.html":[35,0,0,51,6,1,0,95],
 "partition_2src_2_nodes_2_circle_sin_8cpp.html":[35,0,0,51,6,1,0,96],
 "partition_2src_2_nodes_2_circle_sin_8cpp_source.html":[35,0,0,51,6,1,0,96],
-"partition_2src_2_nodes_2_circle_slice_8cpp.html":[35,0,0,51,6,1,0,97],
-"partition_2src_2_nodes_2_circle_slice_8cpp_source.html":[35,0,0,51,6,1,0,97],
-"partition_2src_2_nodes_2_circle_softmax_8cpp.html":[35,0,0,51,6,1,0,98],
-"partition_2src_2_nodes_2_circle_softmax_8cpp_source.html":[35,0,0,51,6,1,0,98],
-"partition_2src_2_nodes_2_circle_space_to_batch_n_d_8cpp.html":[35,0,0,51,6,1,0,99],
-"partition_2src_2_nodes_2_circle_space_to_batch_n_d_8cpp_source.html":[35,0,0,51,6,1,0,99],
-"partition_2src_2_nodes_2_circle_space_to_depth_8cpp.html":[35,0,0,51,6,1,0,100],
-"partition_2src_2_nodes_2_circle_space_to_depth_8cpp_source.html":[35,0,0,51,6,1,0,100],
-"partition_2src_2_nodes_2_circle_sparse_to_dense_8cpp.html":[35,0,0,51,6,1,0,101],
-"partition_2src_2_nodes_2_circle_sparse_to_dense_8cpp_source.html":[35,0,0,51,6,1,0,101],
-"partition_2src_2_nodes_2_circle_split_8cpp.html":[35,0,0,51,6,1,0,102]
+"partition_2src_2_nodes_2_circle_slice_8cpp.html":[35,0,0,51,6,1,0,97]
 };

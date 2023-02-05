@@ -1,5 +1,15 @@
 var NAVTREEINDEX176 =
 {
+"namespaceonert_1_1backend_1_1gpu__cl.html#ad0daec492c53415aa2d8e52be4411f4a":[33,0,86,1,8,17],
+"namespaceonert_1_1backend_1_1gpu__cl.html#aee69af41138816d0153879750794de90":[33,0,86,1,8,20],
+"namespaceonert_1_1backend_1_1gpu__cl.html#af48ed28cb0d18b7539070a68b7e31a22":[33,0,86,1,8,21],
+"namespaceonert_1_1backend_1_1gpu__cl_1_1operand.html":[33,0,86,1,8,0],
+"namespaceonert_1_1backend_1_1ruy.html":[33,0,86,1,9],
+"namespaceonert_1_1backend_1_1ruy.html#a43249f4ae1d9e70164694bbe4c47aab2":[33,0,86,1,9,8],
+"namespaceonert_1_1backend_1_1ruy.html#a8295289e59d31ff8afb39a139a60bc67":[33,0,86,1,9,9],
+"namespaceonert_1_1backend_1_1ruy.html#a90c3d6ad7570204c1e0b655b27ea6c6a":[33,0,86,1,9,6],
+"namespaceonert_1_1backend_1_1ruy.html#af7ef5b7decc45586dee42c9cd19c8444":[33,0,86,1,9,7],
+"namespaceonert_1_1backend_1_1ruy_1_1ops.html":[33,0,86,1,9,0],
 "namespaceonert_1_1backend_1_1ruy_1_1ops.html#a9d353a58ddae5fd09bbc9209e63ff5f4":[33,0,86,1,9,0,3],
 "namespaceonert_1_1backend_1_1ruy_1_1ops.html#acdf7de4e26e95e404f9e451a8bc98f86":[33,0,86,1,9,0,4],
 "namespaceonert_1_1backend_1_1ruy_1_1ops.html#ad60ff70d4292fd81bb5a60a78f9acd8a":[33,0,86,1,9,0,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX176 =
 "namespaceonert_1_1util.html#a7a28e79f16ecb3305a47dc3556d143d9":[33,0,86,12,10],
 "namespaceonert_1_1util.html#a7e5e582c0b8f79d797f44f6df9765727":[33,0,86,12,14],
 "namespaceonert_1_1util.html#a9aac61f35b6d507552fea7bd8ac070ab":[33,0,86,12,9],
-"namespaceonert_1_1util.html#abf338eb19fe688b7a0619ad5560716d0":[33,0,86,12,13],
-"namespaceonert_1_1util.html#aedb74aeaf44f58e9705a6a77300c7466":[33,0,86,12,15],
-"namespaceonert_1_1util_1_1config.html":[33,0,86,12,0],
-"namespaceonert_1_1util_1_1logging.html":[33,0,86,12,1],
-"namespaceonert_1_1util_1_1logging.html#ab82c05096fcf69c9faefe23e6fd230b5":[33,0,86,12,1,1],
-"namespaceonert__test.html":[33,0,87],
-"namespaceonert__test_1_1ir.html":[33,0,87,0],
-"namespaceonnx-dump.html":[33,0,88],
-"namespaceonnx-dump.html#add020f7324a0ab45c8af864772588c77":[33,0,88,0],
-"namespaceonnx-ops.html":[33,0,89],
-"namespaceonnx-ops.html#ab07638e0cd09b2a5401218874e6eb364":[33,0,89,0]
+"namespaceonert_1_1util.html#abf338eb19fe688b7a0619ad5560716d0":[33,0,86,12,13]
 };

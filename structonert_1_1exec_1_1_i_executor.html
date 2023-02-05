@@ -120,6 +120,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:afa5e09f32a3285b8145382b19d996829"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structonert_1_1exec_1_1_i_executor.html#afa5e09f32a3285b8145382b19d996829">execute</a> (const std::vector&lt; <a class="el" href="classonert_1_1backend_1_1_i_portable_tensor.html">backend::IPortableTensor</a> * &gt; &amp;inputs, const std::vector&lt; <a class="el" href="classonert_1_1backend_1_1_i_portable_tensor.html">backend::IPortableTensor</a> * &gt; &amp;outputs)=0</td></tr>
 <tr class="memdesc:afa5e09f32a3285b8145382b19d996829"><td class="mdescLeft">&#160;</td><td class="mdescRight">Execute with given input/output tensors.  <a href="structonert_1_1exec_1_1_i_executor.html#afa5e09f32a3285b8145382b19d996829">More...</a><br /></td></tr>
 <tr class="separator:afa5e09f32a3285b8145382b19d996829"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2624f04e864973792bfc8ca489b3ac07"><td class="memItemLeft" align="right" valign="top">virtual const std::vector&lt; <a class="el" href="classonert_1_1backend_1_1builtin_1_1_i_o_tensor.html">backend::builtin::IOTensor</a> * &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structonert_1_1exec_1_1_i_executor.html#a2624f04e864973792bfc8ca489b3ac07">getInputTensors</a> () const =0</td></tr>
+<tr class="memdesc:a2624f04e864973792bfc8ca489b3ac07"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get input tensor objects.  <a href="structonert_1_1exec_1_1_i_executor.html#a2624f04e864973792bfc8ca489b3ac07">More...</a><br /></td></tr>
+<tr class="separator:a2624f04e864973792bfc8ca489b3ac07"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8fa47e6e9593c9c7132703ec01a07303"><td class="memItemLeft" align="right" valign="top">virtual const std::vector&lt; <a class="el" href="classonert_1_1backend_1_1builtin_1_1_i_o_tensor.html">backend::builtin::IOTensor</a> * &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structonert_1_1exec_1_1_i_executor.html#a8fa47e6e9593c9c7132703ec01a07303">getOutputTensors</a> () const =0</td></tr>
 <tr class="memdesc:a8fa47e6e9593c9c7132703ec01a07303"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get output tensor objects.  <a href="structonert_1_1exec_1_1_i_executor.html#a8fa47e6e9593c9c7132703ec01a07303">More...</a><br /></td></tr>
 <tr class="separator:a8fa47e6e9593c9c7132703ec01a07303"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -271,6 +274,38 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a2624f04e864973792bfc8ca489b3ac07" name="a2624f04e864973792bfc8ca489b3ac07"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2624f04e864973792bfc8ca489b3ac07">&#9670;&#160;</a></span>getInputTensors()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual const std::vector&lt; <a class="el" href="classonert_1_1backend_1_1builtin_1_1_i_o_tensor.html">backend::builtin::IOTensor</a> * &gt; &amp; onert::exec::IExecutor::getInputTensors </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Get input tensor objects. </p>
+<dl class="section return"><dt>Returns</dt><dd>Vector of <code>IOTensor</code> </dd></dl>
+
+<p>Implemented in <a class="el" href="classonert_1_1interp_1_1_interp_executor.html#a02f999bea436c62d3bdf7f0ae060878d">onert::interp::InterpExecutor</a>, and <a class="el" href="classonert_1_1exec_1_1_executor_base.html#a05e470e994b82ab0c25e575d2437676d">onert::exec::ExecutorBase</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="_executors_8cc_source.html#l00180">onert::exec::Executors::execute()</a>.</p>
+
+</div>
+</div>
 <a id="a8fa47e6e9593c9c7132703ec01a07303" name="a8fa47e6e9593c9c7132703ec01a07303"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8fa47e6e9593c9c7132703ec01a07303">&#9670;&#160;</a></span>getOutputTensors()</h2>
 
@@ -329,7 +364,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Implemented in <a class="el" href="classonert_1_1exec_1_1_executor_base.html#ac7b0a4c653fb21dae514d757d0ff4be1">onert::exec::ExecutorBase</a>, and <a class="el" href="classonert_1_1interp_1_1_interp_executor.html#a662ebca5420d3f4f059c2dff5d0ea9ab">onert::interp::InterpExecutor</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="_topological_sort_helper_8py_source.html#l00025">TopologicalSortHelper.TopologicalSortHelper::add_edge()</a>, <a class="el" href="_executors_8cc_source.html#l00114">onert::exec::Executors::execute()</a>, <a class="el" href="_execution_observers_8cc_source.html#l00085">onert::exec::ProfileObserver::handleJobEnd()</a>, <a class="el" href="_single_model_executors_8cc_source.html#l00046">onert::exec::SingleModelExecutors::inputInfo()</a>, <a class="el" href="_single_model_executors_8cc_source.html#l00036">onert::exec::SingleModelExecutors::inputSize()</a>, <a class="el" href="_single_model_executors_8cc_source.html#l00052">onert::exec::SingleModelExecutors::outputInfo()</a>, <a class="el" href="_single_model_executors_8cc_source.html#l00041">onert::exec::SingleModelExecutors::outputSize()</a>, <a class="el" href="_execution_8h_source.html#l00056">onert::exec::Execution::primary_subgraph()</a>, and <a class="el" href="_topological_sort_helper_8py_source.html#l00028">TopologicalSortHelper.TopologicalSortHelper::sort_util()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="_topological_sort_helper_8py_source.html#l00025">TopologicalSortHelper.TopologicalSortHelper::add_edge()</a>, <a class="el" href="_execution_observers_8cc_source.html#l00085">onert::exec::ProfileObserver::handleJobEnd()</a>, <a class="el" href="_single_model_executors_8cc_source.html#l00046">onert::exec::SingleModelExecutors::inputInfo()</a>, <a class="el" href="_single_model_executors_8cc_source.html#l00036">onert::exec::SingleModelExecutors::inputSize()</a>, <a class="el" href="_single_model_executors_8cc_source.html#l00052">onert::exec::SingleModelExecutors::outputInfo()</a>, <a class="el" href="_single_model_executors_8cc_source.html#l00041">onert::exec::SingleModelExecutors::outputSize()</a>, <a class="el" href="_execution_8h_source.html#l00056">onert::exec::Execution::primary_subgraph()</a>, and <a class="el" href="_topological_sort_helper_8py_source.html#l00028">TopologicalSortHelper.TopologicalSortHelper::sort_util()</a>.</p>
 
 </div>
 </div>
