@@ -98,3 +98,6 @@ ${VENV_PYTHON} -m pip ${PIP_OPTIONS} install --upgrade protobuf==3.20.1
 
 # Install pydot for visq
 ${VENV_PYTHON} -m pip ${PIP_OPTIONS} install pydot==${VER_PYDOT}
+
+# install matplotlib
+${VENV_PYTHON} -m pip ${PIP_OPTIONS} install --upgrade matplotlib
